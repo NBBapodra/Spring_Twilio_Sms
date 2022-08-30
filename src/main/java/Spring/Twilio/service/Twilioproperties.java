@@ -29,8 +29,6 @@ public class Twilioproperties {
 		this.fromNumber = fromNumber;
 	}
 	public Twilioproperties() {
-		super();
-		// TODO Auto-generated constructor stub
 	}
 	
 	
